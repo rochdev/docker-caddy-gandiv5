@@ -1,2 +1,2 @@
-ARG plugins="gandiv5"
+ARG plugins="dns,gandiv5"
 FROM abiosoft/caddy
