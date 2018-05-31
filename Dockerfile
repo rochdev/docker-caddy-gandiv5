@@ -1,2 +1,2 @@
-FROM abiosoft/caddy
 ARG plugins="gandiv5"
+FROM abiosoft/caddy
