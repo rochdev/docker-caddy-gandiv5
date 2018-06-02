@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --build-arg plugins=gandiv5 -t rochdev/caddy-gandiv5 .
+docker build --build-arg plugins=gandiv5 -t rochdev/caddy-gandiv5 github.com/abiosoft/caddy-docker.git
